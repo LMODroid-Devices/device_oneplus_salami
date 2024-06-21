@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_salami.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_salami-user \
-    lmodroid_salami-userdebug \
-    lmodroid_salami-eng
